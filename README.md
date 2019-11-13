@@ -8,7 +8,10 @@ To install the `extquadcontrol` package, from the main directory, run:
 ```
 $ pip install .
 ```
-For running tests and examples, please 
+For running tests and examples, please install the dependencies via:
+```
+$ pip install -r requirements.txt
+```
 
 ### Running tests
 To run tests, run:
