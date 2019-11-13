@@ -1,6 +1,6 @@
 # extquadcontrol
 
-Code accompanying the paper 'Stochastic Control with Affine Dynamics and Extended Quadratic Costs'.
+Code accompanying the paper [Stochastic Control with Affine Dynamics and Extended Quadratic Costs](http://web.stanford.edu/~boyd/papers/gen_lqr.html).
 
 ### Installation
 
