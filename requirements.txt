@@ -1,0 +1,7 @@
+matplotlib
+pandas
+cvxpy
+scipy
+iexfinance==0.3.4
+quandl
+jupyter
